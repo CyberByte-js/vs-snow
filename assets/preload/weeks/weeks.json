@@ -1,0 +1,31 @@
+{
+	"storyName": "Frozen Heart",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "snow",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Snowfall",
+			"snow",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"snow",
+		"fredits",
+		"pe"
+	],
+	"weekName": "Week Snow"
+}

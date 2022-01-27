@@ -1,0 +1,10 @@
+{
+	"idle_anim": "BF idle dance",
+	"image": "faiv_naits_at_fredits",
+	"position": [
+		74,
+		-3
+	],
+	"scale": 0.75,
+	"confirm_anim": "BF idle dance"
+}

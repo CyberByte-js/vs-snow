@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="snow.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SnowIdle0000" x="0" y="0" width="576" height="539"/>
+	<SubTexture name="SnowIdle0001" x="0" y="0" width="576" height="539"/>
+	<SubTexture name="SnowIdle0002" x="576" y="0" width="576" height="539"/>
+	<SubTexture name="SnowIdle0003" x="576" y="0" width="576" height="539"/>
+	<SubTexture name="SnowIdle0004" x="1152" y="0" width="576" height="539"/>
+	<SubTexture name="SnowIdle0005" x="1152" y="0" width="576" height="539"/>
+	<SubTexture name="SnowIdle0006" x="0" y="539" width="576" height="539"/>
+	<SubTexture name="SnowIdle0007" x="0" y="539" width="576" height="539"/>
+	<SubTexture name="SnowIdle0008" x="0" y="539" width="576" height="539"/>
+	<SubTexture name="SnowIdle0009" x="0" y="539" width="576" height="539"/>
+	<SubTexture name="SnowIdle0010" x="0" y="539" width="576" height="539"/>
+	<SubTexture name="SnowIdle0011" x="0" y="539" width="576" height="539"/>
+	<SubTexture name="SnowIdle0012" x="0" y="539" width="576" height="539"/>
+	<SubTexture name="SnowIdle0013" x="0" y="539" width="576" height="539"/>
+</TextureAtlas>
